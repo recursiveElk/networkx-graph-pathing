@@ -1,2 +1,2 @@
-# num-connected-components-g
-Small Program that determines the number of connected components in the underlying graph. Built with networkx.
+# num-Connected-Components & length-Longest-Path
+Small Programs that act as tools for finding information about a given directed graph inputted via single bit inputs.
